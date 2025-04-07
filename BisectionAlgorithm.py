@@ -14,7 +14,7 @@ ws.title = "Bisection Results"
 ws.append(["Iteration", "x", "a", "b", "f(a)", "f(b)", "f(x)", "Sign", "Error"])
 
 # Initial parameters
-a = 0.1 
+a = 0.0001 
 b = 5 
 i = 1 
 
